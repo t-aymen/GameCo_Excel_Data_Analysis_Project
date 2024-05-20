@@ -1,7 +1,7 @@
 # GameCo Analysis Project
 We take the role of a market analyst for a new video game company, GameCo, which wants to use data to inform the development of new games. As such, we are tasked to perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market.
 
-## Conext and Key Questions
+## Context and Key Questions
 To shape their understanding of the video games market, GameCo executives are open to hearing any insights we can pull from the data, but are specifically interested in answering the following questions:
 
 * Are certain types of games more popular than others?
